@@ -1,0 +1,27 @@
+{
+  "name": "webclock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrfandoAritonang/WebClock.git"
+  },
+  "author": "irfando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrfandoAritonang/WebClock/issues"
+  },
+  "homepage": "https://github.com/IrfandoAritonang/WebClock#readme",
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
